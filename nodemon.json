@@ -1,0 +1,6 @@
+{
+    "env": {
+        "DB_URL": "mongodb+srv://johnrakon:09op09op@cluster0.iomwx60.mongodb.net/?retryWrites=true&w=majority",
+        "JWT_SECRET": "jwt_long_secret_key_for_generation"
+    }
+}
